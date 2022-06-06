@@ -28,3 +28,4 @@
 
 ## 이번학기 주요 내용
 ### 소프트웨어캡스톤디자인 과목을 통해서 html과 css학습 및 구현
+<img src="https://user-images.githubusercontent.com/72910402/172113655-71cdc757-aeda-4042-b990-5dd7690d080b.png  width="200" height="400"/>
