@@ -20,7 +20,7 @@
 |:---|:---:|:---:|:---|---|
 |생활속의통계학|3|일반교양|||
 |데이터시각화|3|공통전선|||
-|소프트웨어캡스톤디자인|3|공통전선||Link : [캡스톤](https://github.com/Grchallenger/Grchallenger.github.io)|
+|소프트웨어캡스톤디자인|3|공통전선||Github : [캡스톤](https://github.com/Grchallenger/Grchallenger.github.io)|
 |소프트웨어세미나|1|공통전선|||
 |인터넷의이해|2|일반교양|||
 |데이터베이스시스템|3|공통전선|||
